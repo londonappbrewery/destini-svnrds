@@ -1,14 +1,18 @@
-# Destini
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Destini App
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-Pro: Git clone to your Xcode projects folder.
+#  Destini
 
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+## Our Goal
+
+The goal of this tutorial is to get you comfortable with thinking about the state of your app and updating the Views accordingly. In addition, you will be using logic to control the flow of the program. This is a challenge where you’ll solidify your understanding of IF-ELSE statements and comparison operators.
+
+## What you will create
+
+In this app, you will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
 
 
 
-Copyright © The App Brewery
+>This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
+![End Banner](Documentation/readme-end-banner.png)
